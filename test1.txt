@@ -1,10 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is 4AFE-28EA
-
- Directory of C:\Users\bravva\Desktop\git
-
-2018-07-29  14:31    <DIR>          .
-2018-07-29  14:31    <DIR>          ..
-2018-07-29  14:31                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  96ÿ100ÿ601ÿ856 bytes free
+ change 1
